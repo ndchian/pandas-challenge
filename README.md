@@ -19,4 +19,8 @@ You will be able to use this data to assess the following:
 * scores by school size
 * scores by school type
 
-  
+## PyCitySchools Analysis
+
+# General Observations
+
+* 
