@@ -19,8 +19,8 @@ You will be able to use this data to assess the following:
 * scores by school size
 * scores by school type
 
-## PyCitySchools Analysis
+# PyCitySchools Analysis
 
-# General Observations
+## General Observations
 
-* 
+When observing all of the data, there are a few important observations that can be shown. The top five performing schools by % overall passing rate are all charter schools, conversely, the bottom five performing schools by % overall passing are all district school types. Within each school, the math grades are consistent within a couple points across each grade and the same can be said for reading scores by school as well. Schools that spend less money per student ($585 or below) have the best performing students by average math and reading scores as well as overall passing rate. Schools that are small (below 1,000 students) and medium (1,000 to 2,000 students) have better reading, math, and overall passing rates than larger schools (2,000 to 5,000 students). The final conclusion that can be drawn is that in math, reading, and overall passing rates, charter schools do better than district schools. If one lives in this district and wants to send a child to school, the best place would be a small or medium sized charter school with lower spending per student.
